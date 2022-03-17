@@ -1,0 +1,26 @@
+.coustom-bg {
+	background: #2874f0;
+}
+
+.admin .card {
+	border: 1px solid #2874f0;
+}
+
+.admin .card:hover {
+	background: #e2e2e2;
+	cursor: pointer;
+}
+
+.discount label {
+	font-size: 10px !important;
+	font-style: italic !important;
+}
+
+.card-effect:hover {
+	color: #2874f0;
+	text-shadow: #000000;
+		-moz-box-shadow: 0 0 3px rgb(44, 39, 39);
+	-webkit-box-shadow: 0 0 3px rgb(44, 39, 39);
+	box-shadow: 0 0 3px rgb(44, 39, 39)
+}
+
